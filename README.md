@@ -106,7 +106,7 @@ This HR Analysis project demonstrates how structured SQL queries, clean data pre
 Whether you're an HR analyst, data scientist, or dashboard designer, this repository offers a practical blueprint for building end-to-end analytics solutions using real-world data.
 
 
-## 👤 Author
+## 👤 Done By
 
 **Bharath Chandra Naidu Ayyalu**  
 Bachelor of Technology in Computer Science and Engineering  
