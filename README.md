@@ -86,6 +86,7 @@ This project combines SQL, Excel, and dashboard design to deliver a complete HR 
 - What is the total investment in employee development?
   
 ---
+##DASHBOARD IMAGES : https://github.com/BharathChandraNaiduAyyalu/HR-Analysis-Project/blob/main/HR%20DASHBOARD.IMG.pdf
 
 ## 🧰 Tools Used
 
