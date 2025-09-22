@@ -48,75 +48,49 @@ This project combines SQL, Excel, and dashboard design to deliver a complete HR 
 
 ## 🔍 What This Project Answers
 
-<details>
-<summary>👥 Employee Demographics</summary>
-
-- How many employees are in the organization?  
-- What is the gender and marital status distribution?  
+👥 Employee Demographics
+- How many employees are in the organization?
+- What is the gender distribution across the workforce?
+- What are the marital status trends among employees?
 - Which job roles have the highest or lowest headcount?
 
-</details>
+🔄 Employment Status & Type
+- How many employees are currently active or terminated?
+- What is the distribution of employee types (full-time, part-time, temporary)?
+- How do job roles vary across different employment types?
 
-<details>
-<summary>🔄 Employment Status & Type</summary>
+💸 Payzone Analysis
+- What are the defined payzones and how are employees distributed across them?
+- Which job roles and departments dominate each payzone?
+- How does payzone distribution vary by marital status, state, and age?
 
-- How many employees are active or terminated?  
-- What is the breakdown of full-time, part-time, and temporary staff?  
-- How do job roles vary across employment types?
+📈 Performance & Engagement
+- What is the overall performance score distribution?
+- How many employees exceed expectations vs. need improvement?
+- How does performance vary by job role, department, and location?
+- What is the average engagement score and how does it relate to employee status?
 
-</details>
-
-<details>
-<summary>💸 Payzone Analysis</summary>
-
-- How are employees distributed across payzones A, B, and C?  
-- Which roles and departments dominate each zone?  
-- How does payzone vary by age, state, and marital status?
-
-</details>
-
-<details>
-<summary>📈 Performance & Engagement</summary>
-
-- What is the distribution of performance scores?  
-- How many employees exceed expectations or need improvement?  
-- What is the average engagement score?
-
-</details>
-
-<details>
-<summary>😊 Satisfaction & Ratings</summary>
-
-- What is the average satisfaction score across roles?  
-- Which job roles report the highest satisfaction?  
+😊 Satisfaction & Ratings
+- What is the average satisfaction score across the organization?
+- Which job roles report the highest satisfaction?
 - How do employee ratings vary by age, gender, and location?
 
-</details>
+🏆 Employee Ranking
+- Who are the top-performing employees based on combined metrics?
+- How can we rank employees using performance, engagement, satisfaction, and work-life balance?
 
-<details>
-<summary>🏆 Employee Ranking</summary>
+🎓 Training Program Analysis
+- What types of training programs are offered and how are they distributed?
+- What are the outcomes of training programs (completed, passed, failed)?
+- What is the average duration and cost of training?
+- What is the total investment in employee development?
 
-- Who are the top-performing employees based on combined metrics?  
-- How are scores calculated using performance, engagement, satisfaction, and work-life balance?
-
-</details>
-
-<details>
-<summary>🎓 Training Program Analysis</summary>
-
-- What types of training programs are offered?  
-- What are the outcomes and costs of training?  
-- What is the average duration and total investment?
-
-</details>
-
----
 
 ## 🧰 Tools Used
 
 - **SQL** – for querying and analyzing structured data  
 - **Excel** – for data cleaning and formatting  
-- **Power BI / Dashboard Tools** – for visualizing insights  
+- **Power BI** – for visualizing insights  
 
 ---
 
@@ -128,9 +102,6 @@ Focused on data analytics, dashboard design, and luxury branding
 
 ---
 
-## 📬 Contact
-
-Feel free to connect or reach out for collaboration, feedback, or questions!
 
 
 HR-ANALYSIS-DASHBOARD
